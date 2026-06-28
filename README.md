@@ -1,5 +1,5 @@
 # 🖥️ Yasmin Silva Sergio
-**`Sua Profissão, Curso ou Objetivo (Ex: Estudante de Análise e Desenvolvimento de Sistemas)`**
+
 Me chamo Yasmin, tenho 16 anos e sou de Guarulos. Atualmente, estou estudando Desenvolvimentos de Sistemas na Escola Estadual Jardim Fortaleza II. Sou apaixonada por tecnologia e busco sempre aprender coisas novas na área de Segurança da Informação.
 <p align="left">
 <a href="https://github.com/YasminSilvaa2503?tab=followers">
